@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @virajsirohi580
 - 👀 I’m interested in ... Creating an App
 - 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email: virajsirohi580@gmail.com
 
 <!---
